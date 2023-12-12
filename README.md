@@ -2,7 +2,6 @@
 A modification of a developed Glucose meter code made in Arduio IDE. 
 The original code was made by Tanita Grace and all credits are reserved to her.
 
-The modified code was made as part of a MBKM program, held in Indonesia which funded the whole project.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 **About the original code,**
