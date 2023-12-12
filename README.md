@@ -13,3 +13,12 @@ The original code was made by Tanita Grace and all credits are reserved to her.
 - The code implements a **running average** method that constantly takes measurement from the analog pin of the ESP32.
 - Data taking is done continously.
 - The modified code also implements an MQTT function, which is replaced as of now with a locally hosted server by the ESP32 using SPIFFS.
+
+Schematic Diagram can be seen as follows
+[INSERT SCHEMATIC DIAGRAM]
+
+List of Components:
+- ESP32
+- 
+- C
+- D
