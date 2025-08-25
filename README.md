@@ -34,8 +34,6 @@ Additional Components
 - Buttons
 - NE555D
 
-Pictures and Video Result of IoT Integration (In Indonesian)
-![WhatsApp Image 2023-12-22 at 12 53 15_be59b58d](https://github.com/dans142/GlucoseMeter/assets/59532748/4483efc4-bdba-4524-8837-5cc99566e474)
 
 
 https://github.com/dans142/GlucoseMeter/assets/59532748/20eb7f1f-ff05-40e6-b608-1e6e0e956aff
