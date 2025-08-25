@@ -36,7 +36,5 @@ Additional Components
 
 
 
-https://github.com/dans142/GlucoseMeter/assets/59532748/20eb7f1f-ff05-40e6-b608-1e6e0e956aff
-
 
 
